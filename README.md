@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Henrique
+- 👋 Hi, I’m Henrique
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Beautiful projects
